@@ -21,7 +21,7 @@ require (
 	github.com/spf13/viper v1.11.0
 	go.uber.org/automaxprocs v1.4.1-0.20220314153950-975e177ad84f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/tools v0.1.10
+	golang.org/x/tools v0.1.11
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/apimachinery v0.24.0
 	sigs.k8s.io/kind v0.14.0
